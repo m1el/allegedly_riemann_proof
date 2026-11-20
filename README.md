@@ -1,4 +1,4 @@
-allegedly, Rhiemann Hypothesis proof
+allegedly, Riemann Hypothesis proof
 
 sourced by: https://alpo.ge/remark.pdf
 
